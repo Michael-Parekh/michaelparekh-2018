@@ -1128,6 +1128,10 @@ p strong {
 	.close-button {
 		font-size: 18px;
 	}
+	#about {
+		margin-left: 0%;
+		margin-right: 0%;
+	}
 }
 
 @media (min-width: 480px) {
@@ -1412,6 +1416,10 @@ p strong {
 	.close-button {
 		font-size: 23px;
 	}
+	#about {
+		margin-left: 0%;
+		margin-right: 0%;
+	}
 }
 
 @media (min-width: 767px) {
@@ -1687,6 +1695,10 @@ p strong {
 	.close-button {
 		font-size: 24px;
 	}
+	#about {
+		margin-left: 0%;
+		margin-right: 0%;
+	}
 }
 
 @media (min-width: 992px) {
@@ -1957,6 +1969,10 @@ p strong {
 	}
 	.close-button {
 		font-size: 24.5px;
+	}
+	#about {
+		margin-left: 0%;
+		margin-right: 0%;
 	}
 }
 
@@ -2237,6 +2253,17 @@ p strong {
 	.close-button {
 		font-size: 25px;
 	}
+	#about {
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+}
+
+@media (min-width: 1700px) {
+	#about {
+		margin-left: 15%;
+		margin-right: 15%;
+	}
 }
 
 @media (max-height: 450px) {
@@ -2270,5 +2297,9 @@ p strong {
 	}
 	.navbar {
 		margin-top: 16px;
+	}
+	#about {
+		margin-left: 0%;
+		margin-right: 0%;
 	}
 }
