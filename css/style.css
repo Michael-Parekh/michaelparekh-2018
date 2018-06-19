@@ -196,6 +196,7 @@ p strong {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 10px;
+	z-index: 9999;
 }
 
 @-webkit-keyframes arrow{
