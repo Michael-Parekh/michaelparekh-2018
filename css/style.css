@@ -496,6 +496,10 @@ p strong {
 	transition-duration: 0.36s;
 }
 
+.html-ico {
+	transition-duration: 0.35s;
+}
+
 .skill-box1:hover .html-ico {
 	fill: rgb(0, 255, 255);
 }
@@ -506,6 +510,10 @@ p strong {
 	display: inline-block;
 	margin-right: 0.45%;
 	transition-duration: 0.36s;
+}
+
+.css-ico {
+	transition-duration: 0.35s;
 }
 
 .skill-box2:hover .css-ico {
@@ -520,6 +528,10 @@ p strong {
 	transition-duration: 0.36s;
 }
 
+.js-ico {
+	transition-duration: 0.35s;
+}
+
 .skill-box3:hover .js-ico {
 	fill: rgb(0, 255, 255);
 }
@@ -530,6 +542,10 @@ p strong {
 	display: inline-block;
 	margin-right: 0.45%;
 	transition-duration: 0.36s;
+}
+
+.python-ico {
+	transition-duration: 0.35s;
 }
 
 .skill-box4:hover .python-ico {
@@ -544,6 +560,10 @@ p strong {
 	transition-duration: 0.36s;
 }
 
+.adobe-ico {
+	transition-duration: 0.35s;
+}
+
 .skill-box5:hover .adobe-ico {
 	fill: rgb(0, 255, 255);
 }
@@ -554,6 +574,10 @@ p strong {
 	display: inline-block;
 	margin-right: 0.45%;
 	transition-duration: 0.36s;
+}
+
+.lr-ico {
+	transition-duration: 0.35s;
 }
 
 .skill-box6:hover .lr-ico {
@@ -568,6 +592,10 @@ p strong {
 	transition-duration: 0.36s;
 }
 
+.ps-ico {
+	transition-duration: 0.35s;
+}
+
 .skill-box7:hover .ps-ico {
 	fill: rgb(0, 255, 255);
 }
@@ -580,6 +608,10 @@ p strong {
 	transition-duration: 0.36s;
 }
 
+.bst-ico {
+	transition-duration: 0.35s;
+}
+
 .skill-box8:hover .bst-ico {
 	fill: rgb(0, 255, 255);
 }
@@ -590,6 +622,10 @@ p strong {
 	display: inline-block;
 	margin-right: 0.45%;
 	transition-duration: 0.36s;
+}
+
+.ai-ico {
+	transition-duration: 0.35s;
 }
 
 .skill-box9:hover .ai-ico {
@@ -618,6 +654,7 @@ p strong {
 	width: 4%;
 	height: 4%;
 	text-decoration: none;
+	transition-duration: 0.35s;
 }
 
 .mail-icon:hover{
@@ -628,6 +665,7 @@ p strong {
 	width: 4%;
 	height: 4%;
 	text-decoration: none;
+	transition-duration: 0.35s;
 }
 
 .github-icon:hover {
@@ -640,6 +678,7 @@ p strong {
 	text-decoration: none;
 	-webkit-box-shadow: none;
 	        box-shadow: none;
+	transition-duration: 0.35s;
 }
 
 .twitter-icon:hover{
@@ -653,6 +692,7 @@ p strong {
 	-webkit-box-pack: center;
 	    -ms-flex-pack: center;
 	        justify-content: center;
+	transition-duration: 0.35s;
 }
 
 .instagram-icon:hover{
