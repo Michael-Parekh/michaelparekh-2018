@@ -997,9 +997,9 @@ p strong {
 		height: 255px;
 	}
 	.box-one:hover {
-	-webkit-transform: scale(1.10);
-	    -ms-transform: scale(1.10);
-	        transform: scale(1.10);
+	-webkit-transform: scale(1.10) !important;
+	    -ms-transform: scale(1.10) !important;
+	        transform: scale(1.10) !important;
 	}
 	.box-two {
 		width: 75.5%;
@@ -1010,9 +1010,9 @@ p strong {
 		height: 255px;
 	}
 	.box-two:hover {
-	-webkit-transform: scale(1.10);
-	    -ms-transform: scale(1.10);
-	        transform: scale(1.10);
+	-webkit-transform: scale(1.10) !important;
+	    -ms-transform: scale(1.10) !important;
+	        transform: scale(1.10) !important;
 	}
 	.box-three {
 		width: 75.5%;
@@ -1023,9 +1023,9 @@ p strong {
 		height: 255px;
 	}
 	.box-three:hover {
-	-webkit-transform: scale(1.10);
-	    -ms-transform: scale(1.10);
-	        transform: scale(1.10);
+	-webkit-transform: scale(1.10) !important;
+	    -ms-transform: scale(1.10) !important;
+	        transform: scale(1.10) !important;
 	}
 	.box-four {
 		width: 93.5%;
@@ -1036,9 +1036,9 @@ p strong {
 		height: 255px;
 	}
 	.box-four:hover{
-	-webkit-transform: scale(1.10);
-	    -ms-transform: scale(1.10);
-	        transform: scale(1.10);
+	-webkit-transform: scale(1.10) !important;
+	    -ms-transform: scale(1.10) !important;
+	        transform: scale(1.10) !important;
 	}
 	.down-arrow {
 		height: auto;
@@ -1285,9 +1285,9 @@ p strong {
 		height: 300px;
 	}
 	.box-one:hover{
-	-webkit-transform: scale(1.10);
-	    -ms-transform: scale(1.10);
-	        transform: scale(1.10);
+	-webkit-transform: scale(1.10) !important;
+	    -ms-transform: scale(1.10) !important;
+	        transform: scale(1.10) !important;
 	}
 	.box-two {
 		width: 75.5%;
@@ -1298,9 +1298,9 @@ p strong {
 		height: 300px;
 	}
 	.box-two:hover{
-	-webkit-transform: scale(1.10);
-	    -ms-transform: scale(1.10);
-	        transform: scale(1.10);
+	-webkit-transform: scale(1.10) !important;
+	    -ms-transform: scale(1.10) !important;
+	        transform: scale(1.10) !important;
 	}
 	.box-three {
 		width: 75.5%;
@@ -1311,9 +1311,9 @@ p strong {
 		height: 300px;
 	}
 	.box-three:hover{
-	-webkit-transform: scale(1.10);
-	    -ms-transform: scale(1.10);
-	        transform: scale(1.10);
+	-webkit-transform: scale(1.10) !important;
+	    -ms-transform: scale(1.10) !important;
+	        transform: scale(1.10) !important;
 	}
 	.box-four {
 		width: 93.5%;
@@ -1324,9 +1324,9 @@ p strong {
 		height: 300px;
 	}
 	.box-four:hover{
-	-webkit-transform: scale(1.10);
-	    -ms-transform: scale(1.10);
-	        transform: scale(1.10);
+	-webkit-transform: scale(1.10) !important;
+	    -ms-transform: scale(1.10) !important;
+	        transform: scale(1.10) !important;
 	}
 	.down-arrow {
 		height: auto;
@@ -1576,9 +1576,9 @@ p strong {
 		height: 300px;
 	}
 	.box-one:hover{
-	-webkit-transform: scale(1.11);
-	    -ms-transform: scale(1.11);
-	        transform: scale(1.11);
+	-webkit-transform: scale(1.11) !important;
+	    -ms-transform: scale(1.11) !important;
+	        transform: scale(1.11) !important;
 	}
 	.box-two {
 		width: 75.5%;
@@ -1588,9 +1588,9 @@ p strong {
 		height: 300px;
 	}
 	.box-two:hover{
-	-webkit-transform: scale(1.11);
-	    -ms-transform: scale(1.11);
-	        transform: scale(1.11);
+	-webkit-transform: scale(1.11) !important;
+	    -ms-transform: scale(1.11) !important;
+	        transform: scale(1.11) !important;
 	}
 	.box-three {
 		width: 75.5%;
@@ -1600,9 +1600,9 @@ p strong {
 		height: 300px;
 	}
 	.box-three:hover{
-	-webkit-transform: scale(1.11);
-	    -ms-transform: scale(1.11);
-	        transform: scale(1.11);
+	-webkit-transform: scale(1.11) !important;
+	    -ms-transform: scale(1.11) !important;
+	        transform: scale(1.11) !important;
 	}
 	.box-four {
 		width: 93.5%;
@@ -1612,9 +1612,9 @@ p strong {
 		height: 300px;
 	}
 	.box-four:hover{
-	-webkit-transform: scale(1.11);
-	    -ms-transform: scale(1.11);
-	        transform: scale(1.11);
+	-webkit-transform: scale(1.11) !important;
+	    -ms-transform: scale(1.11) !important;
+	        transform: scale(1.11) !important;
 	}
 	.about-paragraph-box {
 		width: 46%;
@@ -1857,9 +1857,9 @@ p strong {
 		height: 300px;
 	}
 	.box-one:hover{
-	-webkit-transform: scale(1.20);
-	    -ms-transform: scale(1.20);
-	        transform: scale(1.20);
+	-webkit-transform: scale(1.20) !important;
+	    -ms-transform: scale(1.20) !important;
+	        transform: scale(1.20) !important;
 	}
 	.box-two {
 		width: 32%;
@@ -1867,9 +1867,9 @@ p strong {
 		height: 300px;
 	}
 	.box-two:hover{
-	-webkit-transform: scale(1.20);
-	    -ms-transform: scale(1.20);
-	        transform: scale(1.20);
+	-webkit-transform: scale(1.20) !important;
+	    -ms-transform: scale(1.20) !important;
+	        transform: scale(1.20) !important;
 	}
 	.box-three {
 		width: 28%;
@@ -1877,9 +1877,9 @@ p strong {
 		height: 300px;
 	}
 	.box-three:hover{
-	-webkit-transform: scale(1.20);
-	    -ms-transform: scale(1.20);
-	        transform: scale(1.20);
+	-webkit-transform: scale(1.20) !important;
+	    -ms-transform: scale(1.20) !important;
+	        transform: scale(1.20) !important;
 	}
 	.box-four {
 		width: 52%;
@@ -1887,9 +1887,9 @@ p strong {
 		height: 300px;
 	}
 	.box-four:hover{
-	-webkit-transform: scale(1.20);
-	    -ms-transform: scale(1.20);
-	        transform: scale(1.20);
+	-webkit-transform: scale(1.20) !important;
+	    -ms-transform: scale(1.20) !important;
+	        transform: scale(1.20) !important;
 	}
 	.about-paragraph-box {
 		width: 46%;
@@ -2136,9 +2136,9 @@ p strong {
 		height: 300px;
 	}
 	.box-one:hover{
-	-webkit-transform: scale(1.20);
-	    -ms-transform: scale(1.20);
-	        transform: scale(1.20);
+	-webkit-transform: scale(1.20) !important;
+	    -ms-transform: scale(1.20) !important;
+	        transform: scale(1.20) !important;
 	}
 	.box-two {
 		width: 32%;
@@ -2146,9 +2146,9 @@ p strong {
 		height: 300px;
 	}
 	.box-two:hover{
-	-webkit-transform: scale(1.20);
-	    -ms-transform: scale(1.20);
-	        transform: scale(1.20);
+	-webkit-transform: scale(1.20) !important;
+	    -ms-transform: scale(1.20) !important;
+	        transform: scale(1.20) !important;
 	}
 	.box-three {
 		width: 28%;
@@ -2156,9 +2156,9 @@ p strong {
 		height: 300px;
 	}
 	.box-three:hover{
-	-webkit-transform: scale(1.20);
-	    -ms-transform: scale(1.20);
-	        transform: scale(1.20);
+	-webkit-transform: scale(1.20) !important;
+	    -ms-transform: scale(1.20) !important;
+	        transform: scale(1.20) !important;
 	}
 	.box-four {
 		width: 52%;
@@ -2166,9 +2166,9 @@ p strong {
 		height: 300px;
 	}
 	.box-four:hover{
-	-webkit-transform: scale(1.20);
-	    -ms-transform: scale(1.20);
-	        transform: scale(1.20);
+	-webkit-transform: scale(1.20) !important;
+	    -ms-transform: scale(1.20) !important;
+	        transform: scale(1.20) !important;
 	}
 	.about-paragraph-box {
 		width: 46%;
