@@ -304,9 +304,9 @@ p strong {
 }
 
 .box-one:hover{
-	-webkit-transform: scale(1.21);
-	    -ms-transform: scale(1.21);
-	        transform: scale(1.21);
+	-webkit-transform: scale(1.21) !important;
+	    -ms-transform: scale(1.21) !important;
+	        transform: scale(1.21) !important;
 	border: 3px dotted rgba(0, 255, 255, 1.0);
 }
 
@@ -324,9 +324,9 @@ p strong {
 }
 
 .box-two:hover {
-	-webkit-transform: scale(1.21);
-	    -ms-transform: scale(1.21);
-	        transform: scale(1.21);
+	-webkit-transform: scale(1.21) !important;
+	    -ms-transform: scale(1.21) !important;
+	        transform: scale(1.21) !important;
 	border: 3px dotted rgba(0, 255, 255, 1.0);
 }
 
@@ -345,9 +345,9 @@ p strong {
 }
 
 .box-three:hover {
-	-webkit-transform: scale(1.25);
-	    -ms-transform: scale(1.25);
-	        transform: scale(1.25);
+	-webkit-transform: scale(1.25) !important;
+	    -ms-transform: scale(1.25) !important;
+	        transform: scale(1.25) !important;
 	border: 3px dotted rgba(0, 255, 255, 1.0);
 }
 
@@ -364,9 +364,9 @@ p strong {
 }
 
 .box-four:hover {
-	-webkit-transform: scale(1.23);
-	    -ms-transform: scale(1.23);
-	        transform: scale(1.23);
+	-webkit-transform: scale(1.23) !important;
+	    -ms-transform: scale(1.23) !important;
+	        transform: scale(1.23) !important;
 	border: 3px dotted rgba(0, 255, 255, 1.0);
 }
 
